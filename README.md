@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work on ex
 
 ### 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,git,github,python,java,kotlin,vscodium,phpstorm,pycharm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,git,github,python,django,java,php,laravel,kotlin,vscodium,phpstorm,pycharm&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats:
 
